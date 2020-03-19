@@ -14,5 +14,5 @@ This library implement [Captive Portal Detection](https://success.tanaza.com/s/a
 ### Background Check
 
     NetChecker netChecker = GetComponent<NetChecker>();
-    netChecker.OnConnectionStatusChanged += status => Debug.Log(status);
+    netChecker.OnConnectionStatusChanged += status => Debug.Log("Internet Status Changed: " + status);
     netChecker.StartConnectionCheck();
