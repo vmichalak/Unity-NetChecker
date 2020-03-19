@@ -1,0 +1,16 @@
+{
+    "name": "com.vmichalak.netchecker",
+    "displayName": "VMichalak NetChecker",
+    "author": {
+        "name": "Valentin Michalak",
+        "email": "valentinmichalak@gmail.com",
+        "url": "http://vmichalak.com"
+    },
+    "version": "0.0.1",
+    "unity": "2018.1",
+    "description": "NetChecker permit to truly check if you are connected to Internet.",
+    "keywords": [
+        "network",
+        "unity"
+    ]
+}
