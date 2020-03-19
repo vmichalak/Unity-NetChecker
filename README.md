@@ -1,5 +1,5 @@
-﻿NetCheck - Reliable Internet Detection for Unity
-================================================
+NetChecker - Reliable Internet Detection for Unity
+==================================================
 
 This library implement [Captive Portal Detection](https://success.tanaza.com/s/article/How-Automatic-Detection-of-Captive-Portal-works) for Unity.
 
